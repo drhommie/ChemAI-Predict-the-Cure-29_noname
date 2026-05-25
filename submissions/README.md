@@ -6,8 +6,6 @@ CSV-файлы с предсказаниями не хранятся в репо
 
 Финальный submission после запуска основного notebook:
 
-submission_target_specific_rf_combined.csv
+submission_pipeline_best_params.csv
 
-Лучший Kaggle Public Score: 284.36006
-
-Метрика соревнования — RMSE, поэтому меньшее значение означает лучшее качество.
+Метрика соревнования — RMSE, средняя validation RMSE финального решения: 323.025.
