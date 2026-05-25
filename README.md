@@ -62,6 +62,14 @@ notebooks/01_baseline.ipynb
 
 Дальше основным считается именно файл `ChemAI_Predict_the_Cure_29_noname_final.ipynb`.
 
+## Презентация
+
+Финальная презентация проекта:
+
+```text
+presentation/ChemAI_29_noname_presentation_final.pptx
+```
+
 ## Запуск проекта
 
 Проект в основном запускался в **Google Colab**.
